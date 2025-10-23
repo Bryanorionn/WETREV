@@ -1,0 +1,2 @@
+# WETREV
+Discord Bot APP
